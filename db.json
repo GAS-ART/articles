@@ -7,8 +7,8 @@
       "status": "premium",
       "video": {
         "src": "/video/coding.mp4",
-        "muted": true,
-        "controls": true,
+        "muted": null,
+        "controls": "",
         "class": "container video"
       }
     },
@@ -18,9 +18,9 @@
       "text": "Search Engine Optimization (SEO) is an essential tool for increasing website traffic. By implementing specific strategies, businesses can improve their website's visibility and attract more visitors. One important step is to conduct thorough keyword research and incorporate those keywords into your website's content. It's also essential to ensure that your website is mobile-friendly and has a fast loading speed. Building high-quality backlinks from reputable websites can also boost your website's SEO. Finally, using social media platforms to promote your website and engage with your audience can also drive traffic to your site. By following these steps, businesses can effectively increase their website traffic and improve their online presence.",
       "status": "premium",
       "video": {
-        "src": "/video/coding.mp4",
-        "muted": false,
-        "controls": false,
+        "src": "/video/bg.mp4",
+        "muted": "muted",
+        "controls": null,
         "class": "background-video"
       }
     },
