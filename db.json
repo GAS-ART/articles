@@ -4,7 +4,7 @@
       {
         "id": 1,
         "title": "Blockchain developer best practices",
-        "text": "Blockchain technology has revolutionized the way we transact and store data online. As a result, blockchain developers have become essential in creating and maintaining these decentralized systems. To ensure the smooth functioning of these systems, blockchain developers must adhere to best practices. One such practice is using secure coding techniques to prevent vulnerabilities such as hacks or exploits. Developers should also document their code thoroughly to make it easier for other developers to understand and work with. Another important practice is regularly testing the blockchain code to identify and fix any issues promptly. Additionally, developers should stay up-to-date with the latest blockchain trends and technologies to ensure they are building secure and efficient systems. By following these best practices, blockchain developers can create robust and reliable decentralized systems that can revolutionize industries.",
+        "text": "Blockchain technology has revolutionized the way we transact and store data online. As a result, blockchain developers have become essential in creating and maintaining these decentralized systems.",
         "status": "premium",
         "video": {
           "src": "/video/coding.mp4",
@@ -16,7 +16,7 @@
       {
         "id": 2,
         "title": "The 4-step SEO increase in traffic",
-        "text": "Search Engine Optimization (SEO) is an essential tool for increasing website traffic. By implementing specific strategies, businesses can improve their website's visibility and attract more visitors. One important step is to conduct thorough keyword research and incorporate those keywords into your website's content. It's also essential to ensure that your website is mobile-friendly and has a fast loading speed. Building high-quality backlinks from reputable websites can also boost your website's SEO. Finally, using social media platforms to promote your website and engage with your audience can also drive traffic to your site. By following these steps, businesses can effectively increase their website traffic and improve their online presence.",
+        "text": "Search Engine Optimization (SEO) is an essential tool for increasing website traffic. By implementing specific strategies, businesses can improve their website's visibility and attract more visitors. One important step is to conduct thorough keyword research and incorporate those keywords into your website's content. ",
         "status": "premium",
         "video": {
           "src": "/video/bg.mp4",
@@ -28,14 +28,14 @@
       {
         "id": 3,
         "title": "Online Payment Processing Web App",
-        "text": "An online payment processing web app is a platform that allows businesses to receive payments electronically from customers. This type of app enables users to securely make transactions through a variety of payment options, including credit cards, e-wallets, and bank transfers. Online payment processing web apps can also offer features such as fraud protection and automatic payment reminders to enhance the user experience. By using a reliable online payment processing web app, businesses can streamline their payment collection process, reduce administrative costs, and provide their customers with a convenient and secure way to make payments.",
+        "text": "An online payment processing web app is a platform that allows businesses to receive payments electronically from customers. This type of app enables users to securely make transactions through a variety of payment options, including credit cards, e-wallets, and bank transfers. Online payment processing web apps can also offer features such as fraud protection and automatic payment reminders to enhance the user experience. ",
         "status": "ordinary",
         "video": false
       },
       {
         "id": 4,
         "title": "Designing User Interfaces",
-        "text": "Designing user interfaces (UI) is a crucial aspect of creating digital products. UI design involves creating visual elements, interactive components, and layout that provide users with an intuitive and user-friendly experience. Good UI design should prioritize usability, accessibility, and aesthetics. By designing user interfaces that effectively address user needs and preferences, businesses can enhance user satisfaction and improve the overall user experience.",
+        "text": "Designing user interfaces (UI) is a crucial aspect of creating digital products. UI design involves creating visual elements, interactive components, and layout that provide users with an intuitive and user-friendly experience. Good UI design should prioritize usability, accessibility, and aesthetics.",
         "status": "ordinary",
         "video": false
       },
